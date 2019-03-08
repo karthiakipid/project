@@ -2,7 +2,7 @@
 
 #define RS RB0
 #define RW RB1
-#define EN RB2
+#define EN RB3
 
 void delay(unsigned int z)
 {
